@@ -4,11 +4,13 @@ Given an array nums with n objects colored red, white, or blue, sort them in-pla
 
 Example 1:
 
-Input: nums = [2,0,2,1,1,0] Output: [0,0,1,1,2,2]
+Input: nums = [2,0,2,1,1,0] 
+Output: [0,0,1,1,2,2]
 
 Example 2:
 
-Input: nums = [2,0,1] Output: [0,1,2]
+Input: nums = [2,0,1] 
+Output: [0,1,2]
 
 Constraints:
 
@@ -22,11 +24,13 @@ Given an integer array nums and an integer k, return the kth largest element in 
 
 Example 1:
 
-Input: nums = [3,2,1,5,6,4], k = 2 Output: 5
+Input: nums = [3,2,1,5,6,4], k = 2 
+Output: 5
 
 Example 2:
 
-Input: nums = [3,2,3,1,2,4,5,5,6], k = 4 Output: 4
+Input: nums = [3,2,3,1,2,4,5,5,6], k = 4 
+Output: 4
 
 Constraints:
 
